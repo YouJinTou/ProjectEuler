@@ -1,0 +1,6 @@
+D:\Programming\Projects\Project Euler\54. Poker Hands\bin\Debug\_54.Poker_Hands.exe.config
+D:\Programming\Projects\Project Euler\54. Poker Hands\bin\Debug\_54.Poker_Hands.exe
+D:\Programming\Projects\Project Euler\54. Poker Hands\bin\Debug\_54.Poker_Hands.pdb
+D:\Programming\Projects\Project Euler\54. Poker Hands\obj\Debug\54. Poker Hands.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Project Euler\54. Poker Hands\obj\Debug\_54.Poker_Hands.exe
+D:\Programming\Projects\Project Euler\54. Poker Hands\obj\Debug\_54.Poker_Hands.pdb
