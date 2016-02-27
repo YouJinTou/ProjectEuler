@@ -85,7 +85,7 @@ class PokerTable
         Enum playerOneHandStrength = EvaluateHandStrength(hands[0]);
         Enum playerTwoHandStrength = EvaluateHandStrength(hands[1]);
 
-        if (playerOneHandStrength.CompareTo(playerTwoHandStrength) == 1)
+        if (playerOneHandStrength.CompareTo(playerTwoHandStrength) > 0)
         {
             playerOneWins++;
         }
@@ -170,7 +170,7 @@ class PokerTable
 
     public static bool IsStraightFlush(Card[] hand)
     {
-        /throw new NotImplementedException();
+        throw new NotImplementedException();
     }
 
     public static bool IsRoyalFlush(Card[] hand)
