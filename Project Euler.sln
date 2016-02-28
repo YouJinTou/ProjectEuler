@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54. Poker Hands", "54. Poker Hands\54. Poker Hands.csproj", "{2353E467-D2E2-4C90-B90E-F2A813B64650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. 10001st Prime", "7. 10001st Prime\7. 10001st Prime.csproj", "{EC984F24-07CC-48F6-B28D-489EE01578F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Largest Product in Series", "08. Largest Product in Series\08. Largest Product in Series.csproj", "{9EE299AD-2C71-4F2B-86D3-3C1242A667BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. 10001st Prime", "07. 10001st Prime\07. 10001st Prime.csproj", "{EC984F24-07CC-48F6-B28D-489EE01578F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{2353E467-D2E2-4C90-B90E-F2A813B64650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2353E467-D2E2-4C90-B90E-F2A813B64650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2353E467-D2E2-4C90-B90E-F2A813B64650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE299AD-2C71-4F2B-86D3-3C1242A667BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE299AD-2C71-4F2B-86D3-3C1242A667BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE299AD-2C71-4F2B-86D3-3C1242A667BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE299AD-2C71-4F2B-86D3-3C1242A667BD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EC984F24-07CC-48F6-B28D-489EE01578F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EC984F24-07CC-48F6-B28D-489EE01578F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC984F24-07CC-48F6-B28D-489EE01578F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
