@@ -1,1 +1,2 @@
-54 Poker Hands
+54. Poker Hands
+60. Prime Pair Sets
