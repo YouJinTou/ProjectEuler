@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. 10001st Prime", "07. 10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60. Prime Pair Sets", "60. Prime Pair Sets\60. Prime Pair Sets.csproj", "{E45BDE80-D0A4-4524-B81F-37A50FDB8D43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "501. Eight Divisors", "501. Eight Divisors\501. Eight Divisors.csproj", "{69D29EE7-D607-45B2-AD04-1E884583BBF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E45BDE80-D0A4-4524-B81F-37A50FDB8D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E45BDE80-D0A4-4524-B81F-37A50FDB8D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E45BDE80-D0A4-4524-B81F-37A50FDB8D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
