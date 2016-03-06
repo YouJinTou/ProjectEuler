@@ -139,7 +139,7 @@ class Program
         catch (OutOfMemoryException)
         {
             progressionSet.RemoveWhere(n => n < number);
-        }        
+        }
     }
 
     static void Main()
@@ -151,7 +151,7 @@ class Program
 
         sw.Start();
 
-        for (long currentNumber = 1; currentNumber <= fn; currentNumber++)
+        for (long currentNumber = 3; currentNumber <= fn; currentNumber++)
         {
             if (primesSet.Contains(currentNumber) || progressionSet.Contains(currentNumber))
             {
@@ -169,5 +169,5 @@ class Program
 
         Console.WriteLine("Total count: " + octoDivisible.Count);
         Console.WriteLine("Time elapsed: " + sw.Elapsed);
-    }
+    }    
 }

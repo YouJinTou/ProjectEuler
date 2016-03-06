@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60. Prime Pair Sets", "60. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "501. Eight Divisors", "501. Eight Divisors\501. Eight Divisors.csproj", "{69D29EE7-D607-45B2-AD04-1E884583BBF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Special Pythagorean Triplet", "09. Special Pythagorean Triplet\09. Special Pythagorean Triplet.csproj", "{6E88421E-13F7-4B02-83AB-7533A0DB5DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D29EE7-D607-45B2-AD04-1E884583BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E88421E-13F7-4B02-83AB-7533A0DB5DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E88421E-13F7-4B02-83AB-7533A0DB5DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E88421E-13F7-4B02-83AB-7533A0DB5DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E88421E-13F7-4B02-83AB-7533A0DB5DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
