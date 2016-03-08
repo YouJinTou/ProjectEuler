@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Special Pythagorean Tri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Summation of Primes", "10. Summation of Primes\10. Summation of Primes.csproj", "{BC1DEC7C-1D27-455E-819E-22BC4918695E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Highly Divisible Triangular Number", "12. Highly Divisible Triangular Number\12. Highly Divisible Triangular Number.csproj", "{4B602175-A534-4226-9E9C-7A2CBE9791CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BC1DEC7C-1D27-455E-819E-22BC4918695E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1DEC7C-1D27-455E-819E-22BC4918695E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1DEC7C-1D27-455E-819E-22BC4918695E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B602175-A534-4226-9E9C-7A2CBE9791CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B602175-A534-4226-9E9C-7A2CBE9791CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B602175-A534-4226-9E9C-7A2CBE9791CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B602175-A534-4226-9E9C-7A2CBE9791CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
