@@ -1,4 +1,5 @@
 14. Longest Collatz Sequence
+15. Lattice Paths
 54. Poker Hands
 60. Prime Pair Sets
 501. Eight Divisors
