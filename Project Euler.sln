@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Power Digit Sum", "16. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. Factorial Digit Sum", "20. Factorial Digit Sum\20. Factorial Digit Sum.csproj", "{43AC5C5A-D128-4193-931C-AB4479469E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. 1000-digit Fibonacci Number", "25. 1000-digit Fibonacci Number\25. 1000-digit Fibonacci Number.csproj", "{73338DA6-D46D-40DF-83D1-23F5A68CCDB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{43AC5C5A-D128-4193-931C-AB4479469E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43AC5C5A-D128-4193-931C-AB4479469E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43AC5C5A-D128-4193-931C-AB4479469E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73338DA6-D46D-40DF-83D1-23F5A68CCDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73338DA6-D46D-40DF-83D1-23F5A68CCDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73338DA6-D46D-40DF-83D1-23F5A68CCDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73338DA6-D46D-40DF-83D1-23F5A68CCDB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
